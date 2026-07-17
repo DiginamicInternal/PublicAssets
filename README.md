@@ -1,2 +1,2 @@
-# PublicAssets
-Public Assets
+# Public Assets
+Public Assets for external communication
